@@ -26,4 +26,4 @@ Eg:- Donor_ID -> Name, Age, Sex, Blood_group, Phone_num, history
 3. Third Normal Form      
  The relation is in 3NF, since there are no transitive dependencies present. No relation having attributes A, B, C exists such that A -> B and B -> C.
  
- ![plot](C:\Users\vedan\Downloads\Mini proj ER Diagram  (2).jpg)
+![Screenshot](ER Diagram.jpg)
