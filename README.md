@@ -25,3 +25,10 @@ Eg:- Donor_ID -> Name, Age, Sex, Blood_group, Phone_num, history
 
 3. Third Normal Form      
  The relation is in 3NF, since there are no transitive dependencies present. No relation having attributes A, B, C exists such that A -> B and B -> C.
+ 
+ ### Entity Relationship Diagram
+![ER Diagram](https://user-images.githubusercontent.com/44337913/142721524-b415c54f-36e6-49a0-ac6a-09abe248c2a0.png)
+
+### Relational Database Design
+![Relational Database Design](https://user-images.githubusercontent.com/44337913/142721521-655b2e4e-d4ed-4709-a527-3e3079eab0da.png)
+
